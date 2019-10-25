@@ -31,6 +31,6 @@ I also used LeNet, but, no amount of training and tweaking could get it to steer
 
 Initially, learning parameter is 0.0001. For fine tuning, the learning rate is set at 0.00001.
 
- ![]()
+ ![NN model](ReadMePics/P2.png)
 
 I was unable to generate good data on my hardware, hence I ended up using Udacity&#39;s dataset
